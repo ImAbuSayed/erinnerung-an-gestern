@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/erinnerung-an-gestern/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Erinnerung an gestern](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/erinnerung-an-gestern/) |
+| **Get License** | [Music Rights & Licensing for Erinnerung an gestern](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/erinnerung-an-gestern/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Straßen von Berlin sind kalt, doch du bringst die Heat
+> Spür den Bass in der Brust, wir viben im Drill-Beat
+> Late night escape, Baby, steig ein in den Wagen
+> Ich lass dich nie los, keine Zeit für die Fragen
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ba57c24ceb1b0f1d712e410ab3cceafc1370f65e7db7734722bbd7b9d9c6f274` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

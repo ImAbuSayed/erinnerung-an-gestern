@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Erinnerung an gestern
+
+This log tracks the cryptographic history and versioning for the song **Erinnerung an gestern** (erinnerung-an-gestern).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T00:21:36.123121 | `v1` | `ba57c24ceb1b0f1d712e410ab3cceafc1370f65e7db7734722bbd7b9d9c6f274` | `f8f6f952775d185d32ae7c5ecf63cca6d2584be29e148345496f45d63150da4c` | `2026-06-28_erinnerung-an-gestern-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
